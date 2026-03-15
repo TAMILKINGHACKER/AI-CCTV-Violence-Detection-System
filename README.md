@@ -169,7 +169,7 @@ pip install -r requirements.txt
 Start the system using:
 
 ```bash
-python main.py
+py -3.11 main.py
 ```
 
 The program will start the camera and begin monitoring the environment.
